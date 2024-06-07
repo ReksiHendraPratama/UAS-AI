@@ -6,14 +6,12 @@ Berikut Penerapan Predictive Maintenance System:
 
 ## Home
 
-![Home](image/hom.png)
+![Home](image/home.png)
 
-Tampilan website dari sebuah sistem perawatan prediktif berbasis kecerdasan buatan yang disebut "Reksi Predictive Maintenance". Sistem ini menawarkan solusi "Free Predictive Maintenance System"
-Secara visual, terdapat navigasi utama sistem dengan opsi-opsi seperti "Beranda", "Tentang", "Kontak", dan "Layanan". Penggunaan warna biru dan putih memberikan kesan modern dan canggih. Sistem ini memanfaatkan sensor untuk pemantauan, serta algoritma machine learning dan kecerdasan buatan untuk analisis data, sistem perawatan prediktif ini dapat memprediksi kegagalan sebelum terjadi
-Pada bagian home ini saya membuat background dengan gambar animasi orang sedang melakukan perbaikan mesin
+Tampilan website dari sebuah sistem perawatan prediktif berbasis kecerdasan buatan yang disebut "Reksi Predictive Maintenance". Sistem ini menawarkan solusi "Free Predictive Maintenance System". Saya dominan menggunakan warna biru laut dalam pembuatan website ini. Pada bagian home ini saya membuat background dengan gambar animasi orang sedang melakukan perbaikan mesin dan juga tulisan "Predictive Maintenance"
 
-## Formulir Prediksi Kerusakan
+## Form Untuk Prediksi Kerusakan
 
-![Formulir](img/formulir.png)
+![Formulir](image/form.png)
 
-Tampilan antarmuka web dari sistem prediksi perawatan yang memungkinkan pengguna untuk melakukan prediksi potensi kerusakan peralatan. Terdapat sebuah formulir yang meminta pengguna untuk mengunggah gambar yang akan diprediksi oleh sistem. Pengguna dapat memilih gambar dengan mengeklik tombol "Select your picture" atau dengan menarik dan menjatuhkan gambar ke area yang tersedia. Kemudian terdapat tombol "Predict" yang akan memulai proses prediksi kerusakan berdasarkan gambar yang diunggah oleh pengguna.
+Pada bagian ini saya membuat tempat untuk upload foto. Terdapat sebuah formulir yang meminta pengguna untuk mengunggah gambar yang akan diprediksi oleh sistem. Untuk memasukkan gambar bisa dengan cara mengklik "Select Your Picture" atau bisa juga dengan drag & drop. Kemudian terdapat tombol "Predict" yang akan memulai proses prediksi kerusakan berdasarkan gambar yang diunggah oleh pengguna.
